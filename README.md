@@ -1,11 +1,11 @@
 # pmr-victoria
-Unity HoloToolkit Research Project augmenting Victoria Statue at DHM
+Unity HoloToolkit sesearch project augmenting Victoria statue at DHM
 
 ## Abstract
-This Unity HoloLens application was developed together with Museum 4.0, Deutsches Historisches Museum (DHM), and Framefield at FU Berlin as a research project. The application aims to explore different levels of initiative in pure mixed reality (PMR) museum guides. It implements three conditions we labled as guided (system initiative), un-guided (user initiative) and co-active (mixed-initiative). 
+This Unity HoloLens application was developed together with Museum 4.0, Deutsches Historisches Museum (DHM), and Framefield at FU Berlin for a research project. The application aims to explore different levels of initiative in pure mixed reality (PMR) museum guides. It implements three conditions of initiative we labled as guided (system initiative), un-guided (user initiative) and co-active (mixed-initiative). 
 
 ## Description
-
+This HoloLens application is an inquiry into the design space of pure mixed reality (PMR) in the context of museum interpretation. The application was developed to reflect constructs such as presence, object presence, agency, co-activity and initiative in PMR. Several interaction techniques are implemented to create the sense of being 'there' als well as the sense of various levels of initiative. To understand if users can sense those experiential variations, three conditions are implemented. While the content of museum interpretation stays the same, the form of (inter)activity with the guide varies. Our hypothesis is that various levels of initiative may have an impact on rememberance and experience. In addition we are interested in whether the real exhibit loses of gains realness or attenstion in such a PMR environment.  
 
 ## Installation (Developer Toolchain)
 
@@ -62,8 +62,15 @@ This Unity HoloLens application was developed together with Museum 4.0, Deutsche
   - do a factory reset on the HoloLens
   - install `Windows IP Over USB-x86_en-us.exe`
 
-
 ## Use
-
+When deployed to the HoloLens, open the App by clicking the Icon. The application uses voice commands, so you have to cccept the microphone use requesten in the pop-up dialogue. The application starts in configuration mode. Air-Tap the Victoria mesh and map it to the reals statue in the DHM. You can use the configuration menu on the right to translate, scale and rotate the statue. To start one of the conditions you say "Start alpha!" for the guided condition, "Start bravo!" for the un-guided condition and "Start charly!" for the mixed initiative version. The experience will start as soon as your gaze is on the statue. To abort the tour say "Cancel Tour!". To go back to the configuration environment say "Admin Mode!". All three tours can also be started by Air-Tap on one of the letters A, B or C.
+The application is automatically recording a 6 DOF coordinate list in a speed of 20 samples per second. The logfile can be accessed via Hololens Device Portal in the application folder.
 
 ## Acknowledgment
+Prof. Dr. rer. nat. Claudia Müller-Birn (FU-Berlin)<br>
+Kartin Glinka (museum 4.0)<br>
+Dr. Silke Krohn (museum 4.0)<br>
+Thomas Mann (framefield)<br>
+Dominik Ganghofer (framefield)<br>
+
+
