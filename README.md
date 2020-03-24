@@ -32,10 +32,11 @@ This HoloLens application is an inquiry into the design space of pure mixed real
 4. Install following "Workloads":
   - .NET desktop development
   - Universal Windows Platform development
-    -- In Optional add: USB Device Connectivity
-    -- C++ Universal Windows Platform tools
-    -- Graphics debugger and GPU profiler for DirectX
-    -- Windows 10 SDK (10.0.17134.0)
+    - In Optional add: 
+    - USB Device Connectivity
+    - C++ Universal Windows Platform tools
+    - Graphics debugger and GPU profiler for DirectX
+    - Windows 10 SDK (10.0.17134.0)
   - Game development with Unity
 5. Reboot.
 
@@ -49,10 +50,13 @@ This HoloLens application is an inquiry into the design space of pure mixed real
   - Platform > "Universal Windows Platform"
   - Target Device > "HoloLens"
   - Architecture > "x86"
-  - Visual Studio Version > "Visual Studio Version 2017"
-7. click "Build" and select a folder where to build. Recommended is "App" in the project root.
-8. When build is finished click the resulting Visual Studio 2017 project file, which will open VS2017.
-9. Select "Release" and "x86" and "Device" to deploy. 
+  - Visual Studio Version > "Visual Studio Version 2017"<br>
+  <b>Important:</b> After switching the built platform a restart of Unity is needed. Otherwise the TapToPlace won't work.
+7. Click "Build" and select a folder where to build. Recommended is "App" in the project root.
+8. When build is finished click the resulting Visual Studio 2017 project file in the App folder, which will open VS2017.
+9. Select "Release" and "x86" and "Device" to deploy.
+10. Connect the Hololens via USB and switch it on.
+11. Deploy.
 
 ### Known issues
 - You need approx. 35GB free HD space for the toolchain
@@ -63,7 +67,7 @@ This HoloLens application is an inquiry into the design space of pure mixed real
   - install `Windows IP Over USB-x86_en-us.exe`
 
 ## Use
-When deployed to the HoloLens, open the App by clicking the Icon. The application uses voice commands, so you have to cccept the microphone use requesten in the pop-up dialogue. The application starts in configuration mode. Air-Tap the Victoria mesh and map it to the reals statue in the DHM. You can use the configuration menu on the right to translate, scale and rotate the statue. To start one of the conditions you say "Start alpha!" for the guided condition, "Start bravo!" for the un-guided condition and "Start charly!" for the mixed initiative version. The experience will start as soon as your gaze is on the statue. To abort the tour say "Cancel Tour!". To go back to the configuration environment say "Admin Mode!". All three tours can also be started by Air-Tap on one of the letters A, B or C.
+When deployed to the HoloLens, open the App by clicking the Icon. The application uses voice commands, so you have to accept the microphone use requesten in the pop-up dialogue. The application starts in configuration mode. Air-Tap the Victoria mesh and map it to the reals statue in the DHM. You can use the configuration menu on the right to translate, scale and rotate the statue. To start one of the conditions you say "Start alpha!" for the guided condition, "Start bravo!" for the un-guided condition and "Start charly!" for the mixed initiative version. The experience will start as soon as your gaze is on the statue. To abort the tour say "Cancel Tour!". To go back to the configuration environment say "Admin Mode!". All three tours can also be started by Air-Tap on one of the letters A, B or C.
 The application is automatically recording a 6 DOF coordinate list in a speed of 20 samples per second. The logfile can be accessed via Hololens Device Portal in the application folder.
 
 ## Acknowledgment
