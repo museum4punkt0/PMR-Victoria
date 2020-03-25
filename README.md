@@ -9,6 +9,13 @@ This HoloLens application is an inquiry into the design space of pure mixed real
 
 ## Installation (Developer Toolchain)
 
+### System requirements
+- Microsoft HoloLens 1 Developer Edition (Consumer edition untested)
+- Windows 10 is required (Win 7 is not working, Win 8 might work)
+- Approx. 35GB free HD space for the toolchain is needed.
+- Visual Studio Community 2017 version 15.9 available at https://visualstudio.microsoft.com/de/vs/older-downloads/
+- Unity 2018.4.19f1 (LTS) available through Unity Hub at https://unity3d.com/de/get-unity/download
+
 ### Unity
 1. Download Unity Hub: https://unity3d.com/de/get-unity/download
 2. Create a Unity ID: https://id.unity.com/account/new
@@ -59,9 +66,6 @@ This HoloLens application is an inquiry into the design space of pure mixed real
 11. Deploy.
 
 ### Known issues
-- You need approx. 35GB free HD space for the toolchain
-- Windows 10 is required (Win 7 is not working, Win 8 might work).
-- You should use Visual Studio 2017
 - If you have trouble connecting to the HoloLens via USB, try to ...
   - do a factory reset on the HoloLens
   - install `Windows IP Over USB-x86_en-us.exe`
