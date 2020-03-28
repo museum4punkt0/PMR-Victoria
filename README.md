@@ -75,7 +75,7 @@ When deployed to the HoloLens, open the App by clicking the Icon. The applicatio
 The application is automatically recording a 6 DOF coordinate list in a speed of 20 samples per second. The logfile can be accessed via Hololens Device Portal in the application folder.
 
 ## Use (Unity)
-When testing the application in Unity, voice commands can be startet via number keys. The '1' Key will start the guided mode, '2' Un-guided, and '3' mixed initiative mode. To avoid waiting times during content play the 'q' Key can be pressed to allow premature content selection. However, guide formats gan also beselected via configuration menu buttons 'A', 'B', 'C' similar to the use when deployed on HoloLens.
+When testing the application in Unity, voice commands can be startet via number keys. The '1' key will start the guided mode, '2' Un-guided, and '3' mixed initiative mode. To avoid waiting times during content play the 'q' key can be pressed to allow premature content selection. However, guide formats gan also be selected via 'configuration menu' buttons 'A', 'B', 'C' similar to the use when deployed on HoloLens.
 
 ## Acknowledgment
 Prof. Dr. rer. nat. Claudia Müller-Birn (FU-Berlin)<br>
