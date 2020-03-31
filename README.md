@@ -1,8 +1,8 @@
 # pmr-victoria
-Unity HoloToolkit sesearch project augmenting Victoria statue at DHM
+Unity HoloToolkit research project augmenting Victoria statue at DHM
 
 ## Abstract
-This Unity HoloLens application was developed together with Museum 4.0, Deutsches Historisches Museum (DHM), and Framefield at FU Berlin for a research project. The application aims to explore different levels of initiative in pure mixed reality (PMR) museum guides. It implements three conditions of initiative we labled as guided (system initiative), un-guided (user initiative) and co-active (mixed-initiative). 
+This Unity HoloLens application was developed together with museum4punkt0, Deutsches Historisches Museum (DHM), and Framefield GmbH at FU Berlin for a research project. The application aims to explore different levels of initiative in pure mixed reality (PMR) museum guides. It implements three conditions of initiative we labled as guided (system initiative), un-guided (user initiative) and co-active (mixed-initiative). 
 
 ## Description
 This HoloLens application is an inquiry into the design space of pure mixed reality (PMR) in the context of museum interpretation. The application was developed to reflect constructs such as presence, object presence, agency, co-activity and initiative in PMR. Several interaction techniques are implemented to create the sense of being 'there' als well as the sense of various levels of initiative. To understand if users can sense those experiential variations, three conditions are implemented. While the content of museum interpretation stays the same, the form of (inter)activity with the guide varies. Our hypothesis is that various levels of initiative may have an impact on rememberance and experience. In addition we are interested in whether the real exhibit loses of gains realness or attenstion in such a PMR environment.  
@@ -79,9 +79,9 @@ When testing the application in Unity, voice commands can be startet via number 
 
 ## Acknowledgment
 Prof. Dr. rer. nat. Claudia Müller-Birn (FU-Berlin)<br>
-Kartin Glinka (museum 4.0)<br>
-Dr. Silke Krohn (museum 4.0)<br>
-Thomas Mann (framefield)<br>
-Dominik Ganghofer (framefield)<br>
+Kartin Glinka (museum4punkt0)<br>
+Dr. Silke Krohn (museum4punkt0)<br>
+Thomas Mann (Framefield GmbH)<br>
+Dominik Ganghofer (Framefield GmbH)<br>
 
 
