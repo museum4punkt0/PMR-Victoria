@@ -2,7 +2,7 @@
 Unity HoloToolkit research project augmenting Victoria statue at DHM
 
 ## Abstract
-This Unity HoloLens application was developed together with museum4punkt0, Deutsches Historisches Museum (DHM), and Framefield GmbH at FU Berlin for a research project. The application aims to explore different levels of initiative in pure mixed reality (PMR) museum guides. It implements three conditions of initiative we labled as guided (system initiative), un-guided (user initiative) and co-active (mixed-initiative).
+This Unity HoloLens application was developed together with museum4punkt0, Deutsches Historisches Museum (DHM), and Framefield GmbH at FU-Berlin for a research project. The application aims to explore different levels of initiative in pure mixed reality (PMR) museum guides. It implements three conditions of initiative we labled as guided (system initiative), un-guided (user initiative) and co-active (mixed-initiative).
 The project museum4punkt0 - Digital Strategies for the Museum of the Future, is funded by the Federal Government Commissioner for Culture and the Media in accordance with a resolution issued by the German Bundestag (Parliament of the Federal Republic of Germany). Further information: www.museum4punkt0.de/en/  
 
 ## Description
@@ -80,7 +80,7 @@ When testing the application in Unity, voice commands can be startet via number 
 
 ## Acknowledgment
 Prof. Dr. rer. nat. Claudia Müller-Birn (FU-Berlin)<br>
-Dr. Patrick Tobias Fischer (FU Berlin)<br>
+Dr. Patrick Tobias Fischer (FU-Berlin)<br>
 Kartin Glinka (museum4punkt0)<br>
 Dr. Silke Krohn (museum4punkt0)<br>
 Thomas Mann (Framefield GmbH)<br>
