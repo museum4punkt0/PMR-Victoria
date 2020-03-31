@@ -5,7 +5,7 @@ Unity HoloToolkit research project augmenting Victoria statue at DHM
 This Unity HoloLens application was developed together with museum4punkt0, Deutsches Historisches Museum (DHM), and Framefield GmbH at FU Berlin for a research project. The application aims to explore different levels of initiative in pure mixed reality (PMR) museum guides. It implements three conditions of initiative we labled as guided (system initiative), un-guided (user initiative) and co-active (mixed-initiative). 
 
 ## Description
-This HoloLens application is an inquiry into the design space of pure mixed reality (PMR) in the context of museum interpretation. The application was developed to reflect constructs such as presence, object presence, agency, co-activity and initiative in PMR. Several interaction techniques are implemented to create the sense of being 'there' als well as the sense of various levels of initiative. To understand if users can sense those experiential variations, three conditions are implemented. While the content of museum interpretation stays the same, the form of (inter)activity with the guide varies. Our hypothesis is that various levels of initiative may have an impact on rememberance and experience. In addition we are interested in whether the real exhibit loses of gains realness or attenstion in such a PMR environment.  
+This HoloLens application is an inquiry into the design space of pure mixed reality (PMR) in the context of museum interpretation. The application was developed to reflect constructs such as presence, object presence, agency, co-activity and initiative in PMR. Several interaction techniques are implemented to create the sense of being 'there' als well as the sense of various levels of initiative. To understand if users can sense those experiential variations, three conditions are implemented. While the content of museum interpretation stays the same, the form of (inter)activity with the guide varies. Our hypothesis is that various levels of initiative may have an impact on rememberance and experience. In addition we are interested in whether the real exhibit loses of gains realness or attention in such a PMR environment.  
 
 ## Installation (Developer Toolchain)
 
@@ -50,7 +50,7 @@ This HoloLens application is an inquiry into the design space of pure mixed real
 ### Building the Application
 1. Clone this code to your local PC. Download won´t work as git-lfs is used to store the larger asset files.
 2. Open Unity Hub and click "Project" and "ADD" the folder (which is a Unity project folder) you just downloaded. This creates a Project which you can assign a specific Unity version.
-3. Choose the Unity Version 2018.4.19f1 then click the project name to open the Unity project in the selected version.
+3. Choose the Unity Version 2018.4.19f1 then click the project name to open the Unity project in the selected version. Unity will update project to selected version.
 4. The Main Unity Project file is located in /Assets/ff/main.unity
 5. In Unity click "Folder" > "Build Settings ...".
 6. Make the following selections in "Build Settings":
