@@ -81,7 +81,7 @@ When testing the application in Unity, voice commands can be startet via number 
 ## Acknowledgment
 Prof. Dr. rer. nat. Claudia Müller-Birn (FU-Berlin)<br>
 Dr. Patrick Tobias Fischer (FU-Berlin)<br>
-Kartin Glinka (museum4punkt0)<br>
+Katrin Glinka (museum4punkt0)<br>
 Dr. Silke Krohn (museum4punkt0)<br>
 Thomas Mann (Framefield GmbH)<br>
 Dominik Ganghofer (Framefield GmbH)<br>
