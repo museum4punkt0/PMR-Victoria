@@ -87,5 +87,5 @@ Thomas Mann (Framefield GmbH)<br>
 Dominik Ganghofer (Framefield GmbH)<br>
 
 ## License
-This application is licensed under MIT License (https://github.com/museum4punkt0/pmr-victoria/blob/master/LICENSE.md))<br>
-HoloToolkit is licensed under the MIT License (/Assets/vendor/HoloToolkit/License.txt)
+This application is licensed under MIT License. See [LICENSE.md] (https://github.com/museum4punkt0/pmr-victoria/blob/master/LICENSE.md))<br>
+HoloToolkit is licensed under the MIT License (https://github.com/museum4punkt0/pmr-victoria/blob/master/Assets/vendor/HoloToolkit/License.txt)
