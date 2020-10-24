@@ -1,4 +1,4 @@
-# pmr-victoria
+# PMR-Vicoria
 PMR-Victoria is a Unity HoloToolkit research project augmenting Fritz Schaper's Victoria statue at Deutsches Historisches Museum (DHM).
 
 ## Abstract
