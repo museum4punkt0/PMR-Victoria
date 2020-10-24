@@ -1,5 +1,5 @@
 # PMR-Vicoria
-PMR-Victoria is a Unity HoloToolkit research project augmenting Fritz Schaper's Victoria statue at Deutsches Historisches Museum (DHM).
+PMR-Victoria is a Unity HoloToolkit research project augmenting Fritz Schaper's Victoria statue at Deutsches Historisches Museum (DHM). 
 
 ## Abstract
 This Unity HoloLens application was developed together with museum4punkt0, Deutsches Historisches Museum (DHM), and Framefield GmbH at FU-Berlin for a research project. The application aims to explore different levels of initiative in pure mixed reality (PMR) museum guides. It implements three conditions of initiative we labled as guided (system initiative), un-guided (user initiative) and co-active (mixed-initiative).
