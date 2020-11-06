@@ -88,5 +88,5 @@ Dominik Ganghofer (Framefield GmbH)<br>
 
 ## License
 Copyright (c) 2020 / museum4punkt0, FU Berlin
-This application is licensed under MIT License. See [LICENSE.md](https://github.com/museum4punkt0/pmr-victoria/blob/master/LICENSE.md))<br>
+This application is licensed under MIT License. See [LICENSE.md](https://github.com/museum4punkt0/pmr-victoria/blob/master/LICENSE.md)<br>
 HoloToolkit is licensed under the MIT License (https://github.com/museum4punkt0/pmr-victoria/blob/master/Assets/vendor/HoloToolkit/License.txt)
